@@ -30,7 +30,7 @@ Contributions to this project are welcome! If you would like to contribute, plea
 4. Push your changes to your forked repository
 5. Submit a pull request with a detailed description of your changes
 
-Please ensure that your contributions adhere to the project's coding conventions and follow good Git and GitHub practices.
+
 
 For demo steps: 1.Download zip file. 2.Extract it and run main.py 
                 2.create face_recognition database in mysql create tabel as mentioned in project 
